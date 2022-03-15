@@ -24,7 +24,7 @@ export default function Home() {
         <Link href="/hatul"><button className={styles.button}>Hátul</button></Link>
         
           <p>
-          Nyomd meg a megfelelő gombot, majd jelöld be a "maradj ébren" négyzetet a következő oldalon hogy a
+          Nyomd meg a megfelelő gombot, majd jelöld be a <strong>maradj ébren</strong> négyzetet a következő oldalon hogy a
           képernyő ne menjen alvó módba. Ez után tartsd az ég felé a telefonod.
         </p>
 
